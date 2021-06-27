@@ -11,4 +11,4 @@ Given a record of every transaction during a three month period, calculate the r
 
 · Make up a data set to best demonstrate your solution
 
-reducers/transaction.js file
+src/reducers/transaction.js file
